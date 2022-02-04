@@ -1,0 +1,102 @@
+
+
+.contenedor{
+    width: 600px;
+    height: 600px;
+}
+
+.uno{
+    width: 65%;
+    height: 96px;
+    float: left;
+    background-color: darkolivegreen;
+}
+
+.dos{
+    width: 34%;
+    height: 96px;
+    float: right;
+    background-color: chartreuse;
+}
+
+.tres{
+    width: 32%;
+    height: 196px;
+    margin-top: 4px;
+    float: left;
+    background-color: black;
+}
+
+.cuatro{
+    width: 32%;
+    height: 196px;
+    margin-top: 4px;
+    margin-left: 1%;
+    float: left;
+    background-color: chartreuse;
+}
+
+.cinco{
+    width: 34%;
+    height: 96px;
+    margin-top: 4px;
+    float: right;
+    background-color: darkolivegreen;
+}
+
+.seis{
+    width: 34%;
+    height: 96px;
+    margin-top: 4px;
+    float: right;
+    background-color: chartreuse;
+}
+
+.siete{
+    width: 65%;
+    height: 96px;
+    margin-top: 4px;
+    float: left;
+    background-color: darkolivegreen;
+}
+
+.ocho{
+    width: 34%;
+    height: 196px;
+    margin-top: 4px;
+    float: right;
+    background-color: black;
+}
+
+.nueve{
+    width: 65%;
+    height: 96px;
+    margin-top: 4px;
+    float: left;
+    background-color: chartreuse;
+}
+
+.diez{
+    width: 32%;
+    height: 96px;
+    margin-top: 4px;
+    float: left;
+    background-color: darkolivegreen;
+}
+
+.once{
+    width: 32%;
+    height: 96px;
+    margin-top: 4px;
+    margin-left: 1%;
+    float: left;
+    background-color: chartreuse;
+}
+
+.doce{
+    width: 34%;
+    height: 96px;
+    margin-top: 4px;
+    float: right;
+    background-color: darkolivegreen;
+}
