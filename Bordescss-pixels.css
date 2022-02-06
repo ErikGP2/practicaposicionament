@@ -1,0 +1,115 @@
+
+
+.contenedor{
+    width: 600px;
+    height: 600px;
+}
+
+.divizq{
+    width: 400px;
+    height: 600px;
+    float: left;
+}
+
+.divder{
+    width: 200px;
+    height: 600px;
+    float: right;
+}
+
+.unoizq{
+    width: 390px;
+    height: 96px;
+    float: left;
+    background-color: darkolivegreen;
+}
+
+.dosizq{
+    width: 192px;
+    height: 196px;
+    margin-top: 4px;
+    float: left;
+    background-color: black;
+}
+
+.tresizq{
+    width: 192px;
+    height: 296px;
+    margin-top: 4px;
+    margin-right: 10px;
+    float: right;
+    background-color: darkolivegreen;
+}
+
+.cuatroizq{
+    width: 192px;
+    height: 96px;
+    float: left;
+    margin-top: 4px;
+    background-color: chartreuse;
+}
+
+.cincoizq{
+    width: 192px;
+    height: 196px;
+    margin-top: 4px;
+    float: left;
+    background-color: black;
+}
+
+.seisizq{
+    width: 192px;
+    height: 96px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 4px;
+    background-color: chartreuse;
+}
+
+.sieteizq{
+    width: 192px;
+    height: 96px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 4px;
+    background-color: chartreuse;
+}
+
+.unoder{
+    width: 204px;
+    height: 96px;
+    float: right;
+    background-color: chartreuse;
+}
+
+.dosder{
+    width: 204px;
+    height: 96px;
+    margin-top: 4px;
+    float: right;
+    background-color: darkolivegreen;
+}
+
+.tresder{
+    width: 204px;
+    height: 96px;
+    margin-top: 4px;
+    float: right;
+    background-color: chartreuse;
+}
+
+.cuatroder{
+    width: 204px;
+    height: 196px;
+    margin-top: 4px;
+    float: right;
+    background-color: black;
+    }
+
+.cincoder{
+    width: 204px;
+    height: 96px;
+    margin-top: 4px;
+    float: right;
+    background-color: darkolivegreen;
+    }
