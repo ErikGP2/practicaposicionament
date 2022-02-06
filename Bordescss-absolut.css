@@ -1,0 +1,88 @@
+
+.contenedor{
+    width: 600px;
+    height: 600px;
+}
+
+.div1{
+    position: absolute;
+    width: 600px;
+    height: 83px;
+    background-color: greenyellow;
+}
+
+.div2{
+    position: absolute;
+    margin-top: 87px;
+    width: 198px;
+    height: 83px;
+    background-color: darkolivegreen;
+}
+
+.div3{
+    position: absolute;
+    margin-top: 174px;
+    width: 198px;
+    height: 83px;
+    background-color: greenyellow;
+}
+
+.div4{
+    position: absolute;
+    margin-top: 261px;
+    width: 198px;
+    height: 83px;
+    background-color: darkolivegreen;
+}
+
+.div5{
+    position: absolute;
+    margin-top: 348px;
+    width: 198px;
+    height: 176px;
+    background-color: black;
+}
+
+.div6{
+    position: absolute;
+    margin-top: 528px;
+    width: 398px;
+    height: 85px;
+    background-color: greenyellow;
+}
+
+.div7{
+    position: absolute;
+    margin-top: 87px;
+    margin-left: 202px;
+    width: 398px;
+    height: 257px;
+    background-color: cyan;
+}
+
+.div8{
+    position: absolute;
+    margin-top: 348px;
+    margin-left: 202px;
+    width: 196px;
+    height: 85px;
+    background-color: greenyellow;
+}
+
+.div9{
+    position: absolute;
+    margin-top: 438px;
+    margin-left: 202px;
+    width: 196px;
+    height: 85px;
+    background-color: darkolivegreen;
+}
+
+.div10{
+    position: absolute;
+    margin-top: 348px;
+    margin-left: 402px;
+    width: 198px;
+    height: 265px;
+    background-color: greenyellow;
+}
